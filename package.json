@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This was my first assignment using MySQL and at first I has some trouble figuring out some errors that were being thrown about var being undefined but once I fixed those it all came together fast.",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlakeDragos/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlakeDragos/Bamazon/issues"
+  },
+  "homepage": "https://github.com/BlakeDragos/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.16.0"
+  }
+}
